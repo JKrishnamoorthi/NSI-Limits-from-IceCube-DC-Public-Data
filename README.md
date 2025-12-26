@@ -41,7 +41,7 @@ If you use this data, please cite:
 
 ## Contact
 
-For questions or clarifications:  
+For questions or clarifications, Please write to  
 **Krishnamoorthi J.**  
 _PhD Student, Institute of Physics, Bhubaneswar, and Aligarh Muslim University, Aligarh_  
 Email: *[krishnamoorthi.j@iopb.res.in]*  
