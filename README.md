@@ -34,7 +34,7 @@ All the data points are for observed $\Delta \chi^2$ values after profiling over
 If you use this data, please cite:
 > J Krishnamoorthi,  Anil Kumar, Sanjib Kumar Agarwalla, 
 > *Stringent constraints on non-standard neutrino interactions using high-purity $\nu_{\mu}$ CC events in IceCube DeepCore*, 2025.  
-> [arXiv:XXXX.YYYYY]
+> [arXiv:2512.22632 [hep-ph]]
 
 
 ---
