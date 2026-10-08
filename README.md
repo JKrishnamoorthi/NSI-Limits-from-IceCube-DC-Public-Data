@@ -1,4 +1,4 @@
-# Stringent Constraints on Non-Standard Neutrino Interactions using High-Purity $\nu_{\mu}$ CC  Events in IceCube DeepCore
+# Stringent Constraints on Non-Standard Neutrino Interactions using High-Purity $\nu_{\mu}$ CC  Events in IceCube DeepCore [PHYSICAL REVIEW D 114, 075009 (2026)]
 
 This repository contains the data files accompanying the paper:
 
@@ -31,7 +31,7 @@ If you use this data, please cite:
 
 > J Krishnamoorthi,  Anil Kumar, Sanjib Kumar Agarwalla,
 > *Stringent constraints on non-standard neutrino interactions using high-purity $\nu_{\mu}$ CC events in IceCube DeepCore*, 2025.
-> Published in PRD
+> Published in PRD [PHYSICAL REVIEW D 114, 075009 (2026)]
 > DOI:  [doi.org/10.1103/2n9h-csnl](https://doi.org/10.1103/2n9h-csnl)
 > [arXiv:2512.22632 [hep-ph]]
 
